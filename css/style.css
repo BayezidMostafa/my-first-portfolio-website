@@ -70,3 +70,44 @@ h1 {
 h2 {
     font-size: 3.3rem;
 }
+
+.exp-heading {
+    margin-left: 70px;
+    text-shadow: 5px 5px 10px gray;
+}
+
+.boxes {
+    display: flex;
+}
+
+.exp-side {
+    width: 40%;
+    margin: auto;
+    box-shadow: 10px 10px 50px gray;
+    padding: 5px 20px 50px 25px;
+    border-radius: 5px;
+}
+
+.Experiance-area {
+    background-image: url(exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    padding-bottom: 50px;
+}
+
+.exp-sort-description {
+    color: #FFA500;
+}
+
+.one {
+    border-left: 7px solid blue;
+}
+
+.two {
+    border-left: 7px solid red;
+}
+
+footer {
+    text-align: center;
+    padding: 40px 0;
+}
