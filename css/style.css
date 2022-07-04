@@ -12,8 +12,13 @@ h1 {
     font-size: 3.3rem;
 }
 
+.description {
+    width: 90%;
+}
+
 .main-header-panel {
     display: flex;
+    margin-bottom: 100px;
 }
 
 .main-header-panel {
@@ -41,4 +46,27 @@ h1 {
     background-image: linear-gradient(red, orange);
     padding: 10px 30px;
     border-radius: 5px;
+}
+
+.destination {
+    background-image: url(dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    display: flex;
+}
+
+.left-one {
+    padding-left: 5%;
+}
+
+.right-one {
+    padding-right: 2%;
+}
+
+.middle {
+    width: 50%;
+}
+
+h2 {
+    font-size: 3.3rem;
 }
